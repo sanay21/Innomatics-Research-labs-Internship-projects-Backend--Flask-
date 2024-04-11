@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Regex Results</title>
+</head>
+<body>
+    <h1>Regex Results</h1>
+    <p>Test String: {{ test_string }}</p>
+    <p>Regex Pattern: {{ regex_pattern }}</p>
+    <h2>Matches:</h2>
+    {% if matches %}
+        <ul>
+        {% for match in matches %}
+            <li>{{ match }}</li>
+        {% endfor %}
+        </ul>
+    {% else %}
+        <p>No matches found.</p>
+    {% endif %}
+    <a href="/">Try again</a>
+</body>
+</html>
