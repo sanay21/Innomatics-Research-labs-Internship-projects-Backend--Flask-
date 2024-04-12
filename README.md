@@ -1,4 +1,5 @@
-Regex Matching Web App Development Project 
+REGEX MATCHING WEB APPLICATION PROJECT
+
   - Created a web application using Python Flask and HTML to replicate the core functionality of regex101.com.
   - Implemented features allowing users to input a test string and a regular expression (regex) and display all matches found.
   - Expanded the functionality of the regex matching web application to include email validation capabilities
