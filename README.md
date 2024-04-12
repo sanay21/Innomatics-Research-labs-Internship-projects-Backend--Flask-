@@ -1,4 +1,4 @@
-Sentiment Analysis of Flipkart Product Reviews
+SENTIMENT ANALYSIS OF FLIPKART PRODUCT  REVIEWS 
 
 -Spearheaded a project to classify customer sentiments from 8,518 reviews using NLP techniques; involved data preprocessing, text normalization, and numerical feature extraction using TF-IDF, Bag-of-Words, and BERT models.
 
